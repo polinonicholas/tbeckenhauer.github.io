@@ -1,6 +1,23 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: Musings on soft-wa.re
+description: > # this means to ignore newlines until "baseurl:"
+email: thomas.beckenhauer.developer@gmail.com
+url: "http://soft-wa.re" # the base hostname & protocol for your site
 show_downloads: false
 show_respository: false
-google_analytics:
+github_username:  tbeckenhauer
+google_analytics: UA-13166428-6
+google_adsense: ca-pub-7409268344688826
+
+include: [ "_tutorials" ]
+
+collections:
+  tutorials:
+    output: true
+  style_guides:
+    output: true
+
+# Build settings
+markdown: kramdown
+exclude: [vendor]
+
 theme: jekyll-theme-hacker
