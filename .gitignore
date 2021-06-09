@@ -2,3 +2,7 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
+
+.bundle
+.jekyll-cache
+vendor
