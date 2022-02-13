@@ -6,9 +6,9 @@ tags: [Programing, CodingStyle, ItDepends]
 permalink: /most-important-things-first/
 ---
 
-This is going to be a short post since I will leave further in detail discussion on the specifics to the posts on the specific recommendations.  To me this is an important life principal, but I have also found it to be an important strategy for developing and maintaining code.
+This post will be short, as I will leave further detailed discussion herein; focusing on the specific recommendation(s) within each narrowly-scoped post.  To me, this is an important life principle, but I've also found it to be an important strategy for developing and maintaining code.
 
-There is nothing revolutionary about this.  But I don't see enough developers paying attention to how they sort their code for readability.
+There is nothing revolutionary about this, yet I don't see enough developers paying attention to how they sort their code for readability.
 
 1. [Ordering of words in a function/variable name.](/naming-conventions/)
 2. [Ordering of declaration/calling of functions in a class definition.](/ordering-the-functions-in-your-class/)
